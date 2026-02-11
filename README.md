@@ -1,7 +1,7 @@
 # Baby-Steps
 First step: tutorials. Last step: PhD.
 
-Hi! I'm Garland, an aspiring Genetic Epidemiologist exploring bioinformatics and cancer genomics. 
+Hi! I'm Garland, a college student and future bioinformatician exploring cancer genomics. 
 This repository documents my learning journey and skill development, from day zero through the PhD application process.
 
 ## Goals
