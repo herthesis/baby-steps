@@ -7,7 +7,7 @@ The goal is to analyze biological datasets and computational methods to build fo
 
 ## Literature Analysis: [Insert Paper Title Here]
 
-**PMID:** [Insert PMID] | **Journal & Year:** [Insert Journal, Year]  
+**PMID:** [Insert PMID] | **DOI:** [Insert DOI] | **Journal & Year:** [Insert Journal, Year]  
 **Primary Data Type:** [e.g., Transcriptomics, Microarray, RNA-Seq]
 
 ## Framing & Context
