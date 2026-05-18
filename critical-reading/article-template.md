@@ -3,6 +3,13 @@
 This template contains the structured set of questions I will answer for each scientific article I read. 
 The goal is to analyze biological datasets and computational methods to build foundational expertise for a future PhD in bioinformatics and cancer genomics.
 
+---
+
+## Literature Analysis: [Insert Paper Title Here]
+
+**PMID:** [Insert PMID] | **Journal & Year:** [Insert Journal, Year]  
+**Primary Data Type:** [e.g., Transcriptomics, Microarray, RNA-Seq]
+
 ## Framing & Context
 * What problem is being addressed, and why is it important?
 * How does this fit into the larger field (bioinformatics, genomics, epidemiology, etc.)?
